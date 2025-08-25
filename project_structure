@@ -1,0 +1,9 @@
+spam-email-classifier/
+│── app.py
+│── spam_model.py
+│── model.pkl
+│── vectorizer.pkl
+│── templates/
+│   └── index.html
+│── requirements.txt
+└── README.md
